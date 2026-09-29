@@ -6,7 +6,7 @@ A simple and responsive coffee menu webpage built using HTML and CSS.
 
 This project is a coffee shop menu that displays different coffee drinks and desserts along with their prices.It was created to practice HTML structure and CSS styling. 
 
-## Faeatures
+## Features
 
 -Clean and simple design
 -Coffee and dessert menu sections
